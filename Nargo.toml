@@ -1,0 +1,7 @@
+[package]
+name = "base58"
+type = "lib"
+authors = ["alpinevm"]
+compiler_version = ">=0.25.0"
+
+[dependencies]
